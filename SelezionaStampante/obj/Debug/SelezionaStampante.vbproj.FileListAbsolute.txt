@@ -1,0 +1,60 @@
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\bin\Debug\SelezionaStampante.exe
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\bin\Debug\SelezionaStampante.pdb
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\bin\Debug\SelezionaStampante.xml
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\obj\Debug\SelezionaStampante.Form1.resources
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\obj\Debug\SelezionaStampante.Resources.resources
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\obj\Debug\SelezionaStampante.vbproj.GenerateResource.Cache
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\obj\Debug\SelezionaStampante.exe
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\obj\Debug\SelezionaStampante.xml
+C:\Users\Mitch\AppData\Local\Temporary Projects\SelezionaStampante\obj\Debug\SelezionaStampante.pdb
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.exe
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.xml
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.pdb
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.exe
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.pdb
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.xml
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Form1.resources
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Resources.resources
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.vbproj.GenerateResource.Cache
+C:\Users\Mitch\Documents\Programmazione\VB.NET\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.exe
+C:\Users\Mitch\Documents\Programmazione\VB.NET\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.xml
+C:\Users\Mitch\Documents\Programmazione\VB.NET\SelezionaStampante\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.pdb
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.exe
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.xml
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.pdb
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.exe
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.pdb
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.xml
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Form1.resources
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Resources.resources
+C:\Users\Mitch\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.vbproj.GenerateResource.Cache
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.exe
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.xml
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.pdb
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.exe
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.pdb
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.xml
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Form1.resources
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Resources.resources
+C:\Users\rstore\Desktop\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.vbproj.GenerateResource.Cache
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.exe
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.xml
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.pdb
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.exe
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.pdb
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\bin\Debug\SelezionaStampante.xml
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Form1.resources
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.Resources.resources
+C:\Users\rstore\Desktop\Jordan\SelezionaStampante\SelezionaStampante\obj\Debug\SelezionaStampante.vbproj.GenerateResource.Cache
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\bin\Debug\Set Printer.exe
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\bin\Debug\Set Printer.pdb
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\bin\Debug\Set Printer.xml
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\obj\Debug\SetPrinter.Form1.resources
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\obj\Debug\SetPrinter.Resources.resources
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\obj\Debug\SelezionaStampante.vbproj.GenerateResource.Cache
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\obj\Debug\Set Printer.exe
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\obj\Debug\Set Printer.xml
+C:\Users\GiadaJordan\Desktop\Set Printer\SelezionaStampante\obj\Debug\Set Printer.pdb
